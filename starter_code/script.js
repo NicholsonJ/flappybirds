@@ -94,7 +94,6 @@ window.onload = function() {
     updateObstacles();
     frames++;
   }
-  //comment
 
   //initial startgame call
   function startGame() {
